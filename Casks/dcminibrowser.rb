@@ -1,4 +1,4 @@
-cask "DCMiniBrowser" do
+cask "dcminibrowser" do
   version "v1.0.1"
   sha256 "d383c0f2f7e04b4a86aab6320f6074c963f60645800838820ad14bfe76d7f647"
 
