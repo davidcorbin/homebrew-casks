@@ -6,7 +6,6 @@ cask "dcminibrowser" do
   name "DCMiniBrowser"
   desc "macOS menu bar application for displaying web pages in a popover"
   homepage "https://github.com/davidcorbin/DCMiniBrowser"
-  license "MIT"
 
   livecheck do
     url :url
