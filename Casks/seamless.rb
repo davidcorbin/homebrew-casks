@@ -1,6 +1,6 @@
 cask "seamless" do
-  version "0.2.3"
-  sha256 "b012b578f0e861c8ac0feed22e88f53218bcb9911a27434aba2e226cc24332c4"
+  version "0.2.4"
+  sha256 "c5c8d61a84234fafb76fe81c0f38451599cd30eea3a61ff5c94deb36f6a4a3c0"
 
   url "https://software.davcor.co/seamless/Seamless-#{version}-arm64.zip"
   name "Seamless"
