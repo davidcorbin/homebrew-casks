@@ -1,6 +1,6 @@
 cask "redline" do
-  version "0.1.8"
-  sha256 "582a91963e021a047d173196d97f41ab9d8b5f650f3a4bf16df32bf053dfd14f"
+  version "0.1.9"
+  sha256 "a5cc44070a3819783df89b8c74af6a51ad5d7624fc30547e69f60c55e661fecd"
 
   url "https://software.davcor.co/redline/Redline-#{version}-macos-aarch64.dmg"
   name "Redline"
